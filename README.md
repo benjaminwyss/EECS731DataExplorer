@@ -1,2 +1,2 @@
-# EECS731DataExplorer
-Project 1 for EECS 731: Data Science
+# EECS 731 Project 1: Jimmy Wrangler, Data Explorer
+Submission by Benjamin Wyss
